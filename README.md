@@ -5,8 +5,8 @@
   
   <br /><br />
 
-  <!-- DYNAMISCHES TYPING BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&height=70&lines=AI-Native+Product+Builder+%26+System+Architect;Orchestrating+Production+Apps+with+Autonomous+AI;Creator+of+Sourced+Protocol+%26+Tickwire;Welcome+to+Hasi+Industries" alt="Typing SVG" />
+  <!-- DYNAMISCHES TYPING BANNER (FIXED FIT & SIZING) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=AI-Native+Product+Builder+%26+Systems+Architect;Orchestrating+High-Scale+Apps+with+Autonomous+AI;Creator+of+Sourced+Protocol+%26+Tickwire.news;Welcome+to+Hasi+Industries" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://tickwire.news"><img src="https://img.shields.io/badge/Live_Product-Tickwire.news-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -67,10 +67,16 @@ $ npx @sourced/cli verify --hash 9e107d9d372bb6826bd81d3542a419d6
 
 ---
 
-### 📊 Repository Metrics
+### 📈 Activity & Commit Metrics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-hasi&show_icons=true&theme=radium&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-hasi&theme=radium&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-hasi&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
