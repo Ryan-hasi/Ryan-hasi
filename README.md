@@ -1,8 +1,10 @@
 <div align="center">
 
-  <!-- SOURCED HERO SEAL -->
-  <img src="https://img.shields.io/badge/%E2%9C%93_SOURCED-Authenticity_%26_Provenance_Engine-00F0FF?style=for-the-badge&logoColor=white" alt="Sourced Mark" />
-  
+  <!-- SOURCED HERO LOGO -->
+  <a href="https://github.com/Ryan-hasi/sourced">
+    <img src="https://raw.githubusercontent.com/Ryan-hasi/Ryan-hasi/main/assets/sourced-logo.svg" width="450" alt="Sourced Protocol Logo" />
+  </a>
+
   <br /><br />
 
   <!-- DYNAMISCHES TYPING BANNER -->
