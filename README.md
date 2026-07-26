@@ -6,44 +6,43 @@
   <br /><br />
 
   <!-- DYNAMISCHES TYPING BANNER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Creator+of+Sourced+Protocol;Architecting+Cryptographic+News+Provenance;Building+High-Performance+Edge+Systems;Welcome+to+Hasi+Industries+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&height=70&lines=AI-Native+Product+Builder+%26+System+Architect;Orchestrating+Production+Apps+with+Autonomous+AI;Creator+of+Sourced+Protocol+%26+Tickwire;Welcome+to+Hasi+Industries" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://tickwire.news"><img src="https://img.shields.io/badge/First_Sourced_Bearer-Tickwire.news-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:ryan.hasenfratz@gmail.com"><img src="https://img.shields.io/badge/Contact-Verification_%26_Security-7928CA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://tickwire.news"><img src="https://img.shields.io/badge/Live_Product-Tickwire.news-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:ryan.hasenfratz@gmail.com"><img src="https://img.shields.io/badge/Contact-Ryan_Hasenfratz-7928CA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🛡️ About Sourced Protocol & Engineering
+### ⚡ The AI-Native Builder Mindset
 
-> **Sourced** is a real-time cryptographic provenance and verification protocol for news feeds, media, and digital content, ensuring immutable authenticity chains and verified sources.
+> *"I don't manually write syntax. I architect systems, direct autonomous AI agents, and ship production-grade products at 10x velocity."*
 
 ```typescript
-interface SourcedNode {
-  protocol: "Sourced v1.0";
-  leadArchitect: "Ryan Hasenfratz";
-  coreEngine: ["Cryptographic Provenance", "Real-Time Verification", "Edge Ingestion"];
-  firstImplementation: "Tickwire.news (✓ Sourced Bearer)";
-  securityModel: "SHA-256 Provenance Ledger & Merkle Verification";
-}
+const ryan = {
+  role: "AI Product Architect & Tech Founder",
+  company: "Hasi Industries",
+  coreProducts: ["Tickwire.news (Live News Engine)", "Sourced Protocol (Provenance Engine)"],
+  architectureOrchestrated: ["Next.js 15", "React 19", "Vercel Edge", "Clerk", "Stripe"],
+  methodology: "100% AI-Driven Agentic Engineering & System Prompting",
+  focus: "Building high-value micro-SaaS & cryptographic trust infrastructure"
+};
 ```
 
 ---
 
-### 🔍 Sourced Hash Verification Terminal
+### 🛡️ Sourced Protocol — Cryptographic Provenance Engine
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-ENGINE_ONLINE-00FF66?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
+> **Sourced** is a real-time cryptographic provenance and verification protocol for news feeds and digital content, ensuring immutable authenticity chains.
 
 <br />
 
 ```bash
 # -----------------------------------------------------------------------
-#  SOURCED CRYPTOGRAPHIC PROVENANCE VALIDATOR (CLI ENGINE)
+#  SOURCED CRYPTOGRAPHIC PROVENANCE VALIDATOR
 # -----------------------------------------------------------------------
 $ npx @sourced/cli verify --hash 9e107d9d372bb6826bd81d3542a419d6
 [✓] Validating cryptographic signature... OK
@@ -54,33 +53,24 @@ $ npx @sourced/cli verify --hash 9e107d9d372bb6826bd81d3542a419d6
 
 ---
 
-### 💻 Stack & Infrastructure
+### 🛠️ Systems & Architecture Stack
 
 <div align="center">
 
-| Core Focus | Stack |
+| Focus | Technologies Orchestrated |
 | :--- | :--- |
-| **Protocol & Logic** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| **Edge & Web** | <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> |
-| **Data & Provenance** | <img src="https://img.shields.io/badge/Vercel_KV-000000?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Product & Web** | <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| **Cloud & Business** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-5469D4?style=for-the-badge&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /> |
+| **Methodology** | <img src="https://img.shields.io/badge/AI_Agentic_Workflows-00F0FF?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel_KV-000000?style=for-the-badge&logo=redis&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 📊 Engineering Metrics & Verification Activity
+### 📊 Repository Metrics
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-hasi&show_icons=true&theme=radium&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-hasi&layout=compact&theme=radium&hide_border=true" />
-</div>
-
----
-
-### 🕹️ Sourced Activity Grid (Daily Sync)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ryan-hasi/Ryan-hasi/output/github-contribution-grid-snake-dark.svg" alt="Sourced Contribution Activity" />
 </div>
 
 ---
