@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- SOURCED HERO BADGE -->
-  <img src="https://img.shields.io/badge/✓_SOURCED-Authenticity_%26_Provenance_Engine-00F0FF?style=for-the-badge&logoColor=white" alt="Sourced Seal" />
+  <!-- SOURCED EXACT HERO BADGE (FROM BOOK) -->
+  <a href="https://github.com/Ryan-hasi/sourced">
+    <img src="https://raw.githubusercontent.com/Ryan-hasi/Ryan-hasi/main/assets/sourced-mark-badge.svg" width="240" height="60" alt="Sourced Official Badge" />
+  </a>
+
 
 
 
