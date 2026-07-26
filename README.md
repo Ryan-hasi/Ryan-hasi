@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- SOURCED HERO LOGO -->
+  <!-- SOURCED HERO MARK -->
   <a href="https://github.com/Ryan-hasi/sourced">
-    <img src="https://raw.githubusercontent.com/Ryan-hasi/Ryan-hasi/main/assets/sourced-logo.svg" width="450" alt="Sourced Protocol Logo" />
+    <img src="https://sourced.network/mark/sourced-mark.svg" height="75" alt="Sourced Official Mark" />
   </a>
+
 
   <br /><br />
 
