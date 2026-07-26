@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- SOURCED HERO MARK -->
-  <a href="https://github.com/Ryan-hasi/sourced">
-    <img src="https://sourced.network/mark/sourced-mark.svg" height="75" alt="Sourced Official Mark" />
+  <!-- SOURCED HERO MARK & BRAND -->
+  <a href="https://github.com/Ryan-hasi/sourced" style="text-decoration: none;">
+    <img src="https://sourced.network/mark/sourced-mark.svg" width="36" height="28" style="vertical-align: middle; margin-right: 8px;" alt="Sourced Mark" />
+    <span style="font-family: monospace; font-size: 26px; font-weight: 700; letter-spacing: 0.22em; color: #FFFFFF; vertical-align: middle;">SOURCED</span>
   </a>
+
 
 
   <br /><br />
