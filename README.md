@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- SOURCED EXACT HERO BADGE (FROM CANONICAL BRAND REPO) -->
-  <a href="https://github.com/Ryan-hasi/sourced-brand-assets">
-    <img src="https://raw.githubusercontent.com/Ryan-hasi/sourced-brand-assets/main/sourced-mark-badge.svg" width="190" height="52" alt="Sourced Official Badge" />
+  <!-- SOURCED EXACT HERO BADGE (LIVE ASSET) -->
+  <a href="https://github.com/Ryan-hasi/sourced">
+    <img src="https://raw.githubusercontent.com/Ryan-hasi/sourced/main/assets/sourced-mark-badge.svg" width="190" height="52" alt="Sourced Official Badge" />
   </a>
+
 
 
 
